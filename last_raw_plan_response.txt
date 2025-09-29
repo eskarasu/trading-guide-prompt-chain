@@ -1,0 +1,7 @@
+```json
+{
+    "steps": [
+        "Pirinci yıkayıp uygun miktarda su ile tencereye alarak pişmeye bırakın. (Genellikle 1 su bardağı pirinç için 1.5 su bardağı su)",
+        "Tavuk göğsünü kuşbaşı doğrayın. Brokoliyi küçük çiçeklere ayırın, havuçları ince halka veya jülyen şeklinde kesin, sarımsakları ezin veya ince kıyın.",
+        "Geniş bir tavayı orta-yüksek ateşte 1 yemek kaşığı zeytinyağı ile ısıtın. Doğranmış tavukları ekleyip her tarafı renk alana kadar 5-7 dakika soteleyin. Tavukları tavadan alın ve kenara koyun.",
+        "Aynı tavaya gerekirse biraz daha zeytinyağı ekleyip havuç ve kıyılmış sarımsağı ekleyin. 3 dakika soteledikten sonra brokoli
